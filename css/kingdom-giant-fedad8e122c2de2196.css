@@ -10667,6 +10667,7 @@ ul {
   place-items: center;
   width: 100%;
   max-width: 100%;
+  padding: 5px;
   display: block;
 }
 
@@ -10677,7 +10678,7 @@ ul {
 }
 
 .code-embed-3 {
-  background-color: #fff;
+  background-color: #fff0;
   border-radius: 8px;
   width: 100%;
   max-width: 100%;
@@ -10789,7 +10790,7 @@ ul {
 
 .header103_content-wrapper {
   text-align: center;
-  margin-bottom: 0;
+  margin-bottom: 20px;
 }
 
 .header-103-instructions-delete {
@@ -12360,7 +12361,7 @@ ul {
 
 .container-large-7 {
   width: 100%;
-  max-width: 85rem;
+  max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -12509,7 +12510,7 @@ ul {
 
 .container-large-8 {
   width: 100%;
-  max-width: 85rem;
+  max-width: 1500px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -14916,7 +14917,7 @@ ul {
 }
 
 .container-large-11 {
-  max-width: 1500px;
+  max-width: 1700px;
   margin-left: auto;
   margin-right: auto;
   padding: 0;
@@ -18014,6 +18015,7 @@ ul {
   .header103_tab-content {
     justify-content: flex-end;
     align-items: center;
+    padding-top: 140px;
     padding-left: 0;
     padding-right: 0;
   }
@@ -18514,7 +18516,7 @@ ul {
     min-height: 7rem;
     padding-left: 1rem;
     padding-right: 1rem;
-    position: fixed;
+    position: static;
     inset: 0% 0% auto;
   }
 
